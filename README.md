@@ -37,6 +37,9 @@ Active states
 
 ### Links
 
+- Solution URL: [Product preview card component solution](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-8Lk7_u3qyh)
+- Live Site URL: [GitHub Pages](https://jpbyte.github.io/product-preview-card-component-main/) 
+
 ## My process
 
 ### Built with
